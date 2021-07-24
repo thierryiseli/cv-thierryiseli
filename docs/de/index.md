@@ -4,10 +4,11 @@
 
 ## Thierry Iseli
 
-**ALLROUNDER - FULL STACK DEVELOPER - AUTOMATION ENGINEER**<br />
-*Blog und mehr zu meiner Passion auf [tyup.ch](https://tyup.ch/)!*
+### ALLROUNDER - FULL STACK DEVELOPER - AUTOMATION ENGINEER
 
 Ich bin motiviert immer Neues dazuzulernen. Dabei ist mir wichtig, die erlenten Fähigkeiten je nach Wirtschaftlichkeit, Machbarkeit und Wünschbarkeit einzusetzten.
+
+### *Blog und mehr zu meiner Passion auf [tyup.ch](https://tyup.ch/)!*
 
 ## Mein Rucksack
 
@@ -24,13 +25,13 @@ Ich bin motiviert immer Neues dazuzulernen. Dabei ist mir wichtig, die erlenten 
 | Pflege von Continuous Deployment                                                 |
 | Pflege von Continuous Integration                                                |
 
-| Skill-Beschreibung                    | Skill-Werte                                                                                                                                                  |
-|---------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Meist eingesetzte Programmiersprachen | - C#<br />- Java<br />- JavaScript<br />- TypeScript<br />- Groovy<br />- HTML & CSS<br />                                                                   |
-| Meist eingesetzte Datenbanken         | - Microsoft SQL Server<br />- MySQL<br />- Oracle<br />- SQLite<br />                                                                                        |
-| Meist eingesetzte CI & CD             | - Jenkins<br />- Azue DevOps (früher TFS)<br />- GitHub Actions<br />- Octopus Deploy<br />- Travis CI<br />                                                 |
-| Meist eingesetztes Automated Testing  | - BDD Tests<br />- E2E Tests<br />- Integration Tests<br />- Unit Tests                                                                                      |
-| Weiteres                              | - Ansible (Linux & Windows)<br />- GitHub & GitLab<br />- Container-orchestration (Kubernetes, Openshift)<br />- Jira, Azure Devops, Trello<br />- Wordpress |
+| Skill-Beschreibung                    | Skill-Werte                                                                                                                          |
+|---------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------|
+| Meist eingesetzte Programmiersprachen | - C#, Java, JavaScript, TypeScript, Groovy, HTML & CSS<br />                                                                         |
+| Meist eingesetzte Datenbanken         | - Microsoft SQL Server, MySQL, Oracle, SQLite<br />                                                                                  |
+| Meist eingesetzte CI & CD             | - Jenkins, Azue DevOps (früher TFS), GitHub Actions, Octopus Deploy, Travis CI                                                       |
+| Meist eingesetztes Automated Testing  | - BDD Tests, E2E Tests, Integration Tests, Unit Tests                                                                                |
+| Weiteres                              | - Ansible (Linux & Windows), GitHub & GitLab, Container-orchestration (Kubernetes, Openshift), Jira, Azure Devops, Trello, Wordpress |
 
 ## Zeitnahe Projekterfahrungen
 
