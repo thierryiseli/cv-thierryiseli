@@ -1,5 +1,3 @@
-# CV - Thierry Iseli {.unnumbered }
-
 ![Thierry Iseli](https://tyup.ch/wp-content/uploads/2021/06/Iseli_Thierry-uai-230x230.jpg)
 
 ## ALLROUNDER - FULL STACK DEVELOPER - AUTOMATION ENGINEER {.unnumbered }
