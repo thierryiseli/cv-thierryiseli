@@ -839,6 +839,21 @@ $endif$
 }
 $endif$
 
+%%
+%% background fix
+%%
+$if(page-background)$
+\backgroundsetup{
+scale=1,
+color=black,
+opacity=$if(page-background-opacity)$$page-background-opacity$$else$0.2$endif$,
+angle=0,
+contents={%
+  \includegraphics[width=\paperwidth,height=\paperheight]{$page-background$}
+  }%
+}
+$endif$
+
 \begin{document}
 
 %%
