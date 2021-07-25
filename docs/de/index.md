@@ -2,7 +2,7 @@
 
 ## ALLROUNDER - FULL STACK DEVELOPER - AUTOMATION ENGINEER {.unnumbered }
 
-Ich bin motiviert immer Neues dazuzulernen. Dabei ist mir wichtig, die erlenten Fähigkeiten je nach Wirtschaftlichkeit, Machbarkeit und Wünschbarkeit einzusetzten.
+Ich bin motiviert immer Neues dazuzulernen. Dabei ist mir wichtig, die erlernten Fähigkeiten je nach Wirtschaftlichkeit, Machbarkeit und Wünschbarkeit einzusetzten.
 
 ## *Blog und mehr zu meiner Passion auf [tyup.ch](https://tyup.ch/)!* {.unnumbered }
 
