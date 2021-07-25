@@ -23,11 +23,11 @@ Ich bin motiviert immer Neues dazuzulernen. Dabei ist mir wichtig, die erlenten 
 
 | Skill-Beschreibung                    | Skill-Werte                                                                                                                          |
 |---------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------|
-| Meist eingesetzte Programmiersprachen | - C#, Java, JavaScript, TypeScript, Groovy, HTML & CSS<br />                                                                         |
-| Meist eingesetzte Datenbanken         | - Microsoft SQL Server, MySQL, Oracle, SQLite<br />                                                                                  |
-| Meist eingesetzte CI & CD             | - Jenkins, Azue DevOps (früher TFS), GitHub Actions, Octopus Deploy, Travis CI                                                       |
-| Meist eingesetztes Automated Testing  | - BDD Tests, E2E Tests, Integration Tests, Unit Tests                                                                                |
-| Weiteres                              | - Ansible (Linux & Windows), GitHub & GitLab, Container-orchestration (Kubernetes, Openshift), Jira, Azure Devops, Trello, Wordpress |
+| **Meist eingesetzte Programmiersprachen** | - C#, Java, JavaScript, TypeScript, Groovy, HTML & CSS                                                                               |
+| **Meist eingesetzte Datenbanken**         | - Microsoft SQL Server, MySQL, Oracle, SQLite                                                                                        |
+| **Meist eingesetzte CI & CD**             | - Jenkins, Azue DevOps (früher TFS), GitHub Actions, Octopus Deploy, Travis CI                                                       |
+| **Meist eingesetztes Automated Testing**  | - BDD Tests, E2E Tests, Integration Tests, Unit Tests                                                                                |
+| **Weiteres**                              | - Ansible (Linux & Windows), GitHub & GitLab, Container-orchestration (Kubernetes, Openshift), Jira, Azure Devops, Trello, Wordpress |
 
 # Zeitnahe Projekterfahrungen {.unnumbered }
  
