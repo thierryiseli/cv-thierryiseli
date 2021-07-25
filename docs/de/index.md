@@ -21,13 +21,22 @@ Ich bin motiviert immer Neues dazuzulernen. Dabei ist mir wichtig, die erlenten 
 | Pflege von Continuous Deployment                                                 |
 | Pflege von Continuous Integration                                                |
 
-| Skill-Beschreibung                    | Skill-Werte                                                                                                                          |
-|---------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------|
-| **Meist eingesetzte Programmiersprachen** | - C#, Java, JavaScript, TypeScript, Groovy, HTML & CSS                                                                               |
-| **Meist eingesetzte Datenbanken**         | - Microsoft SQL Server, MySQL, Oracle, SQLite                                                                                        |
-| **Meist eingesetzte CI & CD**             | - Jenkins, Azue DevOps (früher TFS), GitHub Actions, Octopus Deploy, Travis CI                                                       |
-| **Meist eingesetztes Automated Testing**  | - BDD Tests, E2E Tests, Integration Tests, Unit Tests                                                                                |
-| **Weiteres**                              | - Ansible (Linux & Windows), GitHub & GitLab, Container-orchestration (Kubernetes, Openshift), Jira, Azure Devops, Trello, Wordpress |
+| Skill-Beschreibung                        | Skill-Werte                                                                                                                                    |
+|-------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Meist eingesetzte Programmiersprachen** | - C#, Java, JavaScript, TypeScript, Groovy, HTML & CSS                                                                                         |
+| **Meist eingesetzte Datenbanken**         | - Microsoft SQL Server, MySQL, Oracle, SQLite                                                                                                  |
+| **Meist eingesetzte CI & CD**             | - Jenkins, Azue DevOps (früher TFS), GitHub Actions, Octopus Deploy, Travis CI                                                                 |
+| **Meist eingesetztes Automated Testing**  | - BDD Tests, E2E Tests, Integration Tests, Unit Tests                                                                                          |
+| **Weiteres**                              | - Ansible (Linux & Windows), GitHub & GitLab, Container-orchestration (Kubernetes, Openshift), Jira, Azure Devops, Trello, Wordpress, Cucumber |
+
+# Berufserfahrung {.unnumbered }
+
+| Zeitraum               | Funktion             | Unternehmen                                          | Tätigkeiten                                                                                                                                                                                                                                                                                                                                                                                                                   |
+|------------------------|----------------------|------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Dez. 2020 - heute      | Software Engineer    | confirm IT Solutions GmbH, Baar                      | Bestehende Unterstützung im Bereich automatisiertes Testen bei Kunden im Bundesumfeld und mehreren verschiedenen Projekten. Grundsätzlicher Fokus auf E2E mit Einbezug von API-Schnittstellen und Web-Frontends. Konsistente Handhabung von Testdaten.                                                                                                                                                                        |
+| Sept. 2019 - Nov. 2020 | Software Engineer    | databinding GmbH, Bern                               | Unterstützung im Bereich automatisiertes Testen bei Kunden im Bundesumfeld und mehreren verschiedenen Projekten. Grundsätzlicher Fokus auf E2E mit Einbezug von API-Schnittstellen und Web-Frontends. Konsistente Handhabung von Testdaten. Aufbau von internen Hilfsmittel im Bereich .NET (einrichten von Azure DevOps mit Agents, arbeiten mit Code-Generierung). Aufbau Tool mit API-Schnittstelle und modernem Frontend. |
+| Sept. 2013 - Aug. 2017 | Software Engineer    | adesso AG, Bern                                      | Pflege verschiedener Wartungsprojekte. Aufbau einer internen App mit Umsysteme. Unterstützende Durchführung und automatisierte Testsicherung einer Datenbank-Migration von Oracle zu MSSQL. Pflege und Erneuerung von einer bestehenden Software mit über 20 Umsysteme.                                                                                                                                                       |
+| Sept. 2013 - Aug. 2017 | Informatik-Lernender | Bundesamt für Informatik und Telekommunikation, Bern | Erfahrungen in der Benutzerverwaltung. Grundwissensaufbau in SharePoint. Die Hälfte der Lehre im der Individualentwicklung .NET mit stetigem Wissensaufbau.                                                                                                                                                                                                                                                                   |
 
 # Zeitnahe Projekterfahrungen {.unnumbered }
  
@@ -43,62 +52,30 @@ Dieses Projekt baut sich aus mehreren Teilen zusammen. Es verfügt über eine We
 
 Die Fachanwendung VMon dient vor allem zur Generierung von Statistiken im Bereich des Verkehrsmonitorings. Nach Übernahme des in die Jahre gekommenen Projekts war der erste Release eine Migration von Oracle zu Microsoft SQL Server. Da bei der Übernahme die Test-Abdeckung bei nahezu 0% lag, wurden automatisierte Tests generiert. Diese Migration verlief mit einigen Hürden erfolgreich. Ein Highlight war die Migration der vorhandenen Tabelle mit über 2 Milliarden Einträge.
 
-## Spesenverwaltung (2018-2019) {.unnumbered }
-
-Eine App basierend auf Xamarin Forms für Android und iOS. Die Spesen können damit intern einfach verwaltet werden, wobei schlussendlich die erfassten Spesen dem Abacus übermittelt werden. Die App interagiert mit einer Web API, welche die Daten mithilfe dem Azure Storage sichert. Betrieben wird diese API auf dem Azure in Form eines Cloud Services.
-
-# Berufserfahrung {.unnumbered }
-
-## Dez. 2020 - heute: Software Engineer {.unnumbered }
-
-*confirm IT Solutions GmbH, Baar*</br>
-
-## Sept. 2019 - Nov. 2020: Software Engineer {.unnumbered }
-
-*databinding GmbH, Bern*</br>
-
-## Sept. 2017- Aug. 2019: Software Engineer {.unnumbered }
-
-*adesso AG, Bern*</br>
-
-## Sept. 2013 - Aug. 2017: Informatik-Lernender {.unnumbered }
-
-*Bundesamt für Informatik und Telekommunikation, Bern*</br>
-
 # Schule und Bildung {.unnumbered }
 
-## 2019-heute: Bachelor Wirtschaftsinformatiker {.unnumbered }
+## 2019-heute: Bachelor Wirtschaftsinformatiker *(Berner Fachhochschule BFH, Bern)* {.unnumbered }
 
-*Berner Fachhochschule BFH, Bern*</br>
-
-## 2013-2017: Gewerbeschule und BMS {.unnumbered }
-
-*gibb, Bern*</br>
+## 2013-2017: Gewerbeschule und BMS *(gibb, Bern)* {.unnumbered }
 
 # Sprachen {.unnumbered }
 
-## Deutsch {.unnumbered }
-
-Lesen, Schreiben und Sprechen - Sehr gut
-
-## Englisch {.unnumbered }
-
-Lesen, Schreiben und Sprechen - Gut
-
-## Französisch {.unnumbered }
-
-Lesen, Schreiben und Sprechen - Basis-Schulkenntnisse
+| Sprache     | Lesen                 | Sprechen              | Schreiben             |
+|-------------|-----------------------|-----------------------|-----------------------|
+| Deutsch     | Sehr gut              | Sehr gut              | Sehr gut              |
+| Englisch    | Gut                   | Gut                   | Gut                   |
+| Französisch | Basis-Schulkenntnisse | Basis-Schulkenntnisse | Basis-Schulkenntnisse |
 
 # Freizeit {.unnumbered }
 
-Kochen | Fitness | Computer und Technologien | Fotografie
+- Computer und Technologien
+- Kochen 
+- Fitness
+- Fotografie
 
 # Meisterschaften {.unnumbered }
 
-## Regionalmeisterschaft 2017 - Applikationsentwicklung (Region Bern) {.unnumbered }
-
-Platz 3.
-
-## ICT-Skills 2017 - Applikationsentwicklung (Schweiz) {.unnumbered }
-
-Platz 9.
+| Meisterschaft                                                      | Platz |
+|--------------------------------------------------------------------|-------|
+| Regionalmeisterschaft 2017 - Applikationsentwicklung (Region Bern) | 3     |
+| ICT-Skills 2017 - Applikationsentwicklung (Schweiz)                | 9     |
