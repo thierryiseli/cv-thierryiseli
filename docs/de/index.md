@@ -55,7 +55,8 @@ Ich bin motiviert immer Neues dazuzulernen. Dabei ist mir wichtig, die erlenten 
 
 ## Sept. 2013 - Aug. 2017: Informatik-Lernender *(Bundesamt für Informatik und Telekommunikation, Bern)* {.unnumbered }
 
-- Erfahrungen in der Benutzerverwaltung. Grundwissensaufbau in SharePoint. 
+- Erfahrungen in der Benutzerverwaltung. 
+- Grundwissensaufbau in SharePoint. 
 - Die Hälfte der Lehre im der Individualentwicklung .NET mit stetigem Wissensaufbau.
 
 # Zeitnahe Projekterfahrungen {.unnumbered }
@@ -99,3 +100,8 @@ Die Fachanwendung VMon dient vor allem zur Generierung von Statistiken im Bereic
 |----------------------------------------------------------------------------------------------------------|-------|
 | Regionalmeisterschaft 2017 - IT Softwarelösungen für Unternehmen (Applikationsentwicklung) - Region Bern | 3     |
 | ICT-Skills 2017 - IT Softwarelösungen für Unternehmen (Applikationsentwicklung) - Schweiz                | 9     |
+
+# Kontakt
+
+**Hast du eine persönliche Frage an mich oder möchtest du mit mir in Kontakt treten?
+Dann sende eine Mail an [thierry.iseli@tyup.ch](mailto:thierry.iseli@tyup.ch).**
