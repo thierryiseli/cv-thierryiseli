@@ -31,12 +31,32 @@ Ich bin motiviert immer Neues dazuzulernen. Dabei ist mir wichtig, die erlenten 
 
 # Berufserfahrung {.unnumbered }
 
-| Zeitraum               | Funktion             | Unternehmen                                          | Tätigkeiten                                                                                                                                                                                                                                                                                                                                                                                                                   |
-|------------------------|----------------------|------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Dez. 2020 - heute      | Software Engineer    | confirm IT Solutions GmbH, Baar                      | Bestehende Unterstützung im Bereich automatisiertes Testen bei Kunden im Bundesumfeld und mehreren verschiedenen Projekten. Grundsätzlicher Fokus auf E2E mit Einbezug von API-Schnittstellen und Web-Frontends. Konsistente Handhabung von Testdaten.                                                                                                                                                                        |
-| Sept. 2019 - Nov. 2020 | Software Engineer    | databinding GmbH, Bern                               | Unterstützung im Bereich automatisiertes Testen bei Kunden im Bundesumfeld und mehreren verschiedenen Projekten. Grundsätzlicher Fokus auf E2E mit Einbezug von API-Schnittstellen und Web-Frontends. Konsistente Handhabung von Testdaten. Aufbau von internen Hilfsmittel im Bereich .NET (einrichten von Azure DevOps mit Agents, arbeiten mit Code-Generierung). Aufbau Tool mit API-Schnittstelle und modernem Frontend. |
-| Sept. 2013 - Aug. 2017 | Software Engineer    | adesso AG, Bern                                      | Pflege verschiedener Wartungsprojekte. Aufbau einer internen App mit Umsysteme. Unterstützende Durchführung und automatisierte Testsicherung einer Datenbank-Migration von Oracle zu MSSQL. Pflege und Erneuerung von einer bestehenden Software mit über 20 Umsysteme.                                                                                                                                                       |
-| Sept. 2013 - Aug. 2017 | Informatik-Lernender | Bundesamt für Informatik und Telekommunikation, Bern | Erfahrungen in der Benutzerverwaltung. Grundwissensaufbau in SharePoint. Die Hälfte der Lehre im der Individualentwicklung .NET mit stetigem Wissensaufbau.                                                                                                                                                                                                                                                                   |
+## Dez. 2020 - heute: Software Engineer (confirm IT Solutions GmbH, Baar) {.unnumbered }
+
+- Bestehende Unterstützung im Bereich automatisiertes Testen bei Kunden im Bundesumfeld und mehreren verschiedenen Projekten. 
+  - Grundsätzlicher Fokus auf E2E mit Einbezug von API-Schnittstellen und Web-Frontends. 
+  - Konsistente Handhabung von Testdaten.
+
+## Sept. 2019 - Nov. 2020: Software Engineer (databinding GmbH, Bern)  {.unnumbered }
+
+- Unterstützung im Bereich automatisiertes Testen bei Kunden im Bundesumfeld und mehreren verschiedenen Projekten. 
+  - Grundsätzlicher Fokus auf E2E mit Einbezug von API-Schnittstellen und Web-Frontends. 
+  - Konsistente Handhabung von Testdaten.
+-  Aufbau von internen Hilfsmittel im Bereich .NET 
+   -  Einrichten von Azure DevOps mit Agents, arbeiten mit Code-Generierung
+   -  Aufbau Tool mit API-Schnittstelle und modernem Frontend.
+
+## Sept. 2017- Aug. 2019: Software Engineer (adesso AG, Bern) {.unnumbered }
+
+- Pflege verschiedener Wartungsprojekte. 
+- Aufbau einer internen App mit Umsysteme. 
+- Unterstützende Durchführung und automatisierte Testsicherung einer Datenbank-Migration von Oracle zu MSSQL.
+- Pflege und Erneuerung von einer bestehenden Software mit über 20 Umsysteme.
+
+## Sept. 2013 - Aug. 2017: Informatik-Lernender (Bundesamt für Informatik und Telekommunikation, Bern) {.unnumbered }
+
+- Erfahrungen in der Benutzerverwaltung. Grundwissensaufbau in SharePoint. 
+- Die Hälfte der Lehre im der Individualentwicklung .NET mit stetigem Wissensaufbau.
 
 # Zeitnahe Projekterfahrungen {.unnumbered }
  
@@ -75,7 +95,7 @@ Die Fachanwendung VMon dient vor allem zur Generierung von Statistiken im Bereic
 
 # Meisterschaften {.unnumbered }
 
-| Meisterschaft                                                      | Platz |
-|--------------------------------------------------------------------|-------|
-| Regionalmeisterschaft 2017 - Applikationsentwicklung (Region Bern) | 3     |
-| ICT-Skills 2017 - Applikationsentwicklung (Schweiz)                | 9     |
+| Meisterschaft                                                                                            | Platz |
+|----------------------------------------------------------------------------------------------------------|-------|
+| Regionalmeisterschaft 2017 - IT Softwarelösungen für Unternehmen (Applikationsentwicklung) - Region Bern | 3     |
+| ICT-Skills 2017 - IT Softwarelösungen für Unternehmen (Applikationsentwicklung) - Schweiz                | 9     |
