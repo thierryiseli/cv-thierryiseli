@@ -32,20 +32,24 @@ podTemplate(containers: [
         
         container('jq') {
             stage('Upload cv in DE') {
+                try {
                     withCredentials([usernamePassword(credentialsId: 'b19750e3-fb9d-4d71-b796-566f2c4a9146',
-                            usernameVariable: 'GIT_USERNAME',
-                            passwordVariable: 'GITHUB_TOKEN')]) {
-                    withEnv(["VERSION=${gitversion.MajorMinorPatch}",
-                        "RELEASE_NAME=CV V.${gitversion.MajorMinorPatch}",
-                        "RELEASE_DESCRIPTION=''",
-                        "REPOSITORY_NAME=tyupch/cv-thierryiseli",
-                        "UPLOAD_FILE=cv-thierryiseli-de.pdf"]){
-                        env.UPLOAD_URL = sh(returnStdout: true, script: "curl -s -H \"Authorization: token ${GITHUB_TOKEN}\" -d '{\"tag_name\": \"${VERSION}\", \"name\": \"${RELEASE_NAME}\", \"body\":\"${RELEASE_DESCRIPTION}\"}' \"https://api.github.com/repos/${REPOSITORY_NAME}/releases\" | jq --raw-output '.assets_url'")
-                        env.UPLOAD_URL = env.UPLOAD_URL.replace("\n", "").replace("api.", "uploads.")
-                        sh "curl -H \"Authorization: token ${GITHUB_TOKEN}\" -H \"Content-Type: application/octet-stream\" --data-binary @${UPLOAD_FILE} \"${UPLOAD_URL}?name=${UPLOAD_FILE}\""
+                        usernameVariable: 'GIT_USERNAME',
+                        passwordVariable: 'GITHUB_TOKEN')]) {
+                        withEnv(["VERSION=${gitversion.MajorMinorPatch}",
+                            "RELEASE_NAME=CV V.${gitversion.MajorMinorPatch}",
+                            "RELEASE_DESCRIPTION=''",
+                            "REPOSITORY_NAME=tyupch/cv-thierryiseli",
+                            "UPLOAD_FILE=cv-thierryiseli-de.pdf"]){
+                            env.UPLOAD_URL = sh(returnStdout: true, script: "curl -s -H \"Authorization: token ${GITHUB_TOKEN}\" -d '{\"tag_name\": \"${VERSION}\", \"name\": \"${RELEASE_NAME}\", \"body\":\"${RELEASE_DESCRIPTION}\"}' \"https://api.github.com/repos/${REPOSITORY_NAME}/releases\" | jq --raw-output '.assets_url'")
+                            env.UPLOAD_URL = env.UPLOAD_URL.replace("\n", "").replace("api.", "uploads.")
+                            sh "curl -H \"Authorization: token ${GITHUB_TOKEN}\" -H \"Content-Type: application/octet-stream\" --data-binary @${UPLOAD_FILE} \"${UPLOAD_URL}?name=${UPLOAD_FILE}\""
                         }
-                    }
-                
+                    }                    
+                } catch (error) {
+                    echo "Release for this version already exists or another error."
+                    echo error
+                }                               
             }
         }
         
