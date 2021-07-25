@@ -101,7 +101,7 @@ Die Fachanwendung VMon dient vor allem zur Generierung von Statistiken im Bereic
 | Regionalmeisterschaft 2017 - IT Softwarelösungen für Unternehmen (Applikationsentwicklung) - Region Bern | 3     |
 | ICT-Skills 2017 - IT Softwarelösungen für Unternehmen (Applikationsentwicklung) - Schweiz                | 9     |
 
-# Kontakt
+# Kontakt {.unnumbered }
 
 **Hast du eine persönliche Frage an mich oder möchtest du mit mir in Kontakt treten?
 Dann sende eine Mail an [thierry.iseli@tyup.ch](mailto:thierry.iseli@tyup.ch).**
