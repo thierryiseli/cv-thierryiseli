@@ -31,13 +31,13 @@ Ich bin motiviert immer Neues dazuzulernen. Dabei ist mir wichtig, die erlenten 
 
 # Berufserfahrung {.unnumbered }
 
-## Dez. 2020 - heute: Software Engineer (confirm IT Solutions GmbH, Baar) {.unnumbered }
+## Dez. 2020 - heute: Software Engineer *(confirm IT Solutions GmbH, Baar)* {.unnumbered }
 
 - Bestehende Unterstützung im Bereich automatisiertes Testen bei Kunden im Bundesumfeld und mehreren verschiedenen Projekten. 
   - Grundsätzlicher Fokus auf E2E mit Einbezug von API-Schnittstellen und Web-Frontends. 
   - Konsistente Handhabung von Testdaten.
 
-## Sept. 2019 - Nov. 2020: Software Engineer (databinding GmbH, Bern)  {.unnumbered }
+## Sept. 2019 - Nov. 2020: Software Engineer *(databinding GmbH, Bern)*  {.unnumbered }
 
 - Unterstützung im Bereich automatisiertes Testen bei Kunden im Bundesumfeld und mehreren verschiedenen Projekten. 
   - Grundsätzlicher Fokus auf E2E mit Einbezug von API-Schnittstellen und Web-Frontends. 
@@ -46,14 +46,14 @@ Ich bin motiviert immer Neues dazuzulernen. Dabei ist mir wichtig, die erlenten 
    -  Einrichten von Azure DevOps mit Agents, arbeiten mit Code-Generierung
    -  Aufbau Tool mit API-Schnittstelle und modernem Frontend.
 
-## Sept. 2017- Aug. 2019: Software Engineer (adesso AG, Bern) {.unnumbered }
+## Sept. 2017- Aug. 2019: Software Engineer *(adesso AG, Bern)* {.unnumbered }
 
 - Pflege verschiedener Wartungsprojekte. 
 - Aufbau einer internen App mit Umsysteme. 
 - Unterstützende Durchführung und automatisierte Testsicherung einer Datenbank-Migration von Oracle zu MSSQL.
 - Pflege und Erneuerung von einer bestehenden Software mit über 30 Umsysteme.
 
-## Sept. 2013 - Aug. 2017: Informatik-Lernender (Bundesamt für Informatik und Telekommunikation, Bern) {.unnumbered }
+## Sept. 2013 - Aug. 2017: Informatik-Lernender *(Bundesamt für Informatik und Telekommunikation, Bern)* {.unnumbered }
 
 - Erfahrungen in der Benutzerverwaltung. Grundwissensaufbau in SharePoint. 
 - Die Hälfte der Lehre im der Individualentwicklung .NET mit stetigem Wissensaufbau.
