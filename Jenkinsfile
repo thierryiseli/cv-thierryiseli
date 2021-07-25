@@ -48,7 +48,7 @@ podTemplate(containers: [
                     }                    
                 } catch (error) {
                     echo "Release for this version already exists or another error."
-                    echo error
+                    echo "${error}"
                 }                               
             }
         }
