@@ -51,7 +51,7 @@ Ich bin motiviert immer Neues dazuzulernen. Dabei ist mir wichtig, die erlenten 
 - Pflege verschiedener Wartungsprojekte. 
 - Aufbau einer internen App mit Umsysteme. 
 - Unterstützende Durchführung und automatisierte Testsicherung einer Datenbank-Migration von Oracle zu MSSQL.
-- Pflege und Erneuerung von einer bestehenden Software mit über 20 Umsysteme.
+- Pflege und Erneuerung von einer bestehenden Software mit über 30 Umsysteme.
 
 ## Sept. 2013 - Aug. 2017: Informatik-Lernender (Bundesamt für Informatik und Telekommunikation, Bern) {.unnumbered }
 
