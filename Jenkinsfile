@@ -33,7 +33,7 @@ podTemplate(containers: [
         container('jq') {
             stage('Upload cv in DE') {
                 try {
-                    withCredentials([usernamePassword(credentialsId: 'b19750e3-fb9d-4d71-b796-566f2c4a9146',
+                    withCredentials([usernamePassword(credentialsId: 'github',
                         usernameVariable: 'GIT_USERNAME',
                         passwordVariable: 'GITHUB_TOKEN')]) {
                         withEnv(["VERSION=${gitversion.MajorMinorPatch}",
