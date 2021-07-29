@@ -1,10 +1,10 @@
+*Blog und mehr zu meiner Passion auf [tyup.ch](https://tyup.ch/)!*
+
 ![Thierry Iseli](https://tyup.ch/wp-content/uploads/2021/06/Iseli_Thierry-uai-230x230.jpg)
 
 ## ALLROUNDER - FULL STACK DEVELOPER - AUTOMATION ENGINEER {.unnumbered }
 
 Ich bin motiviert immer Neues dazuzulernen. Dabei ist mir wichtig, die erlernten Fähigkeiten je nach Wirtschaftlichkeit, Machbarkeit und Wünschbarkeit einzusetzten.
-
-## *Blog und mehr zu meiner Passion auf [tyup.ch](https://tyup.ch/)!* {.unnumbered }
 
 # Mein Rucksack {.unnumbered }
 
@@ -103,5 +103,7 @@ Die Fachanwendung VMon dient vor allem zur Generierung von Statistiken im Bereic
 
 # Kontakt {.unnumbered }
 
-**Hast du eine persönliche Frage an mich oder möchtest du mit mir in Kontakt treten?
-Dann sende eine Mail an [thierry.iseli@tyup.ch](mailto:thierry.iseli@tyup.ch).**
+Meine Kontaktinformationen:
+
+- [✉ me@thierryiseli.com](mailto:thierry.iseli@tyup.ch)
+- [📱 +41 78 808 55 48](tel:+41788085548)
