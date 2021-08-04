@@ -43,7 +43,7 @@ Ich bin motiviert immer Neues dazuzulernen. Dabei ist mir wichtig, die erlernten
   - Grundsätzlicher Fokus auf E2E mit Einbezug von API-Schnittstellen und Web-Frontends. 
   - Konsistente Handhabung von Testdaten.
 -  Aufbau von internen Hilfsmittel im Bereich .NET 
-   -  Einrichten von Azure DevOps mit Agents, arbeiten mit Code-Generierung
+   -  Einrichten von Azure DevOps mit Agents, arbeiten mit Code-Generierung.
    -  Aufbau Tool mit API-Schnittstelle und modernem Frontend.
 
 ## Sept. 2017- Aug. 2019: Software Engineer *(adesso AG, Bern)* {.unnumbered }
@@ -57,7 +57,7 @@ Ich bin motiviert immer Neues dazuzulernen. Dabei ist mir wichtig, die erlernten
 
 - Erfahrungen in der Benutzerverwaltung. 
 - Grundwissensaufbau in SharePoint. 
-- Die Hälfte der Lehre im der Individualentwicklung .NET mit stetigem Wissensaufbau.
+- Die Hälfte der Lehre in der Individualentwicklung .NET mit stetigem Wissensaufbau.
 
 # Zeitnahe Projekterfahrungen {.unnumbered }
  
