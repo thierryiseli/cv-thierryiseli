@@ -2,7 +2,7 @@ def gitversion = []
 
 podTemplate(containers: [
         containerTemplate(name: 'docker', image: 'docker', ttyEnabled: true, command: 'cat'),
-        containerTemplate(name: 'pandoc', image: 'tewarid/pandoc:2.14.0.2', ttyEnabled: true, command: 'cat'),
+        containerTemplate(name: 'pandoc', image: 'tewarid/pandoc:2.14.1', ttyEnabled: true, command: 'cat'),
         containerTemplate(name: 'jq', image: 'badouralix/curl-jq:alpine', ttyEnabled: true, command: 'cat'),
         containerTemplate(name: 'gitversion', image: 'im5tu/netcore-gitversion:3-alpine', ttyEnabled: true, command: 'cat')],
         volumes: [
