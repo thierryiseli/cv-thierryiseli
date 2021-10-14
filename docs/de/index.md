@@ -31,7 +31,12 @@ Ich bin motiviert immer Neues dazuzulernen. Dabei ist mir wichtig, die erlernten
 
 # Berufserfahrung {.unnumbered }
 
-## Dez. 2020 - heute: Software Engineer *(confirm IT Solutions GmbH, Baar)* {.unnumbered }
+## Okt. 2021 - heute: Software Engineer *(openconecpt AG, Lyss)* {.unnumbered }
+
+- Bestehende Unterstützung im Bereich automatisiertes Testen bei Kunden im Bundesumfeld und mehreren verschiedenen Projekten. 
+- Unterstützung in IT-Infrastruktur und Software-Entwicklung.
+
+## Dez. 2020 - Sept. 2021: Software Engineer *(confirm IT Solutions GmbH, Baar)* {.unnumbered }
 
 - Bestehende Unterstützung im Bereich automatisiertes Testen bei Kunden im Bundesumfeld und mehreren verschiedenen Projekten. 
   - Grundsätzlicher Fokus auf E2E mit Einbezug von API-Schnittstellen und Web-Frontends. 
