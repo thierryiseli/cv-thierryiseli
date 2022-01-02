@@ -1,5 +1,3 @@
-*Blog und mehr zu meiner Passion auf [tyup.ch](https://tyup.ch/)!*
-
 ![Thierry Iseli](https://tyup.ch/wp-content/uploads/2021/06/Iseli_Thierry-uai-230x230.jpg)
 
 ## ALLROUNDER - FULL STACK DEVELOPER - AUTOMATION ENGINEER {.unnumbered }
