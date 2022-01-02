@@ -44,6 +44,8 @@ podTemplate(containers: [
                             "UPLOAD_FILE=cv-thierryiseli-de.pdf"]){
                             env.UPLOAD_URL = sh(returnStdout: true, script: "curl -s -H \"Authorization: token ${GITHUB_TOKEN}\" -d '{\"tag_name\": \"${VERSION}\", \"name\": \"${RELEASE_NAME}\", \"body\":\"${RELEASE_DESCRIPTION}\"}' \"https://api.github.com/repos/${REPOSITORY_NAME}/releases\" | jq --raw-output '.assets_url'")
                             env.UPLOAD_URL = env.UPLOAD_URL.replace("\n", "").replace("api.", "uploads.")
+                            echo UPLOAD_URL
+                            echo env.UPLOAD_URL
                             sh "curl -H \"Authorization: token ${GITHUB_TOKEN}\" -H \"Content-Type: application/octet-stream\" --data-binary @${UPLOAD_FILE} \"${UPLOAD_URL}?name=${UPLOAD_FILE}\""
                         }
                     }                    
