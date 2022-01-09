@@ -29,7 +29,7 @@ Ich bin motiviert immer Neues dazuzulernen. Dabei ist mir wichtig, die erlernten
 
 # Berufserfahrung {.unnumbered }
 
-## Okt. 2021 - heute: Software Engineer *(openconecpt AG, Lyss)* {.unnumbered }
+## Okt. 2021 - heute: Software Engineer *(openconcept AG, Lyss)* {.unnumbered }
 
 - Bestehende Unterstützung im Bereich automatisiertes Testen bei Kunden im Bundesumfeld und mehreren verschiedenen Projekten. 
 - Unterstützung in IT-Infrastruktur und Software-Entwicklung.
