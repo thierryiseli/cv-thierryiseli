@@ -1,4 +1,4 @@
-![Thierry Iseli](https://thierryiseli.com/wp-content/uploads/2022/01/Iseli_Thierry.jpg) {.left}
+![Thierry Iseli](https://thierryiseli.com/wp-content/uploads/2022/01/Iseli_Thierry.jpg)
 
 ## ALLROUNDER - FULL STACK DEVELOPER - AUTOMATION ENGINEER {.unnumbered }
 
