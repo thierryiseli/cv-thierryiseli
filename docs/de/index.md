@@ -1,4 +1,4 @@
-![Thierry Iseli](https://tyup.ch/wp-content/uploads/2021/06/Iseli_Thierry-uai-230x230.jpg)
+![Thierry Iseli](https://thierryiseli.com/wp-content/uploads/2022/01/Iseli_Thierry.jpg)
 
 ## ALLROUNDER - FULL STACK DEVELOPER - AUTOMATION ENGINEER {.unnumbered }
 
