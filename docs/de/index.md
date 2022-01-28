@@ -108,5 +108,5 @@ Die Fachanwendung VMon dient vor allem zur Generierung von Statistiken im Bereic
 
 Meine Kontaktinformationen:
 
-- [thierry.iseli@tyup.ch](mailto:thierry.iseli@tyup.ch)
+- [me@thierryiseli.com](mailto:me@thierryiseli.com)
 - [+41 78 808 55 48](tel:+41788085548)
