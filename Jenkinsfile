@@ -27,7 +27,7 @@ podTemplate(containers: [
                 writeFile(file: 'metadata.md', text: "# CV - Thierry Iseli (V. ${gitversion.MajorMinorPatch}) {.unnumbered }")
                 sh "tlmgr update --self"
                 sh "tlmgr install adjustbox babel-german background bidi collectbox csquotes everypage filehook footmisc footnotebackref framed fvextra letltxmacro ly1 mdframed mweights needspace pagecolor sourcecodepro sourcesanspro titling ucharcat ulem unicode-math upquote xecjk xurl zref"
-                sh "pandoc metadata.md docs/de/index.md -f markdown -o cv-thierryiseli-de.pdf --template ./template.tex -V page-background=background.pdf -V page-background-opacity=1 -N -V margin-top=30mm -V margin-left=20mm -V margin-right=20mm -V margin-bottom=30mm -V version=1.0.0 -V lang=de -V 'caption-justification=centering'"
+                sh "pandoc metadata.md docs/de/index.md -f markdown -o cv-thierryiseli-de.pdf --template ./template.tex -N -V margin-top=30mm -V margin-left=20mm -V margin-right=20mm -V margin-bottom=30mm -V version=1.0.0 -V lang=de -V 'caption-justification=centering'"
             }
         }
         
